@@ -3,7 +3,7 @@ Learning
 
 [Clint Laskowski](clint.laskowski@gmail.com)
 
-Programs developed while I was learning Test-Driven Development, Git and GitHub.
+Simple programs I developed while learning Ruby, JavaScript, Test-Driven Development, Git, GitHub, Pry, and more.
 
 'ruby' Folder
 -------------

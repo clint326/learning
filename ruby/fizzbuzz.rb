@@ -16,6 +16,8 @@ def fizzbuzz(a)
 	end
 end
 
+=begin Remove comment block header and footer to use tests
+
 # RSpec-based Tests
 
 describe "FizzBuzz" do
@@ -54,4 +56,5 @@ describe "FizzBuzz" do
 	end
 	
 end
+=end
 
